@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name":"SafeArea",
+        "description":"A widget that insets its child by sufficient padding to avoid intrusions by the operating system.\nFor example, this will indent the child by enough to avoid the status bar at the top of the screen.\nIt will also indent the child by the amount necessary to avoid The Notch on the iPhone X, or other similar creative physical features of the display.",
+        "youtube link":"https://www.youtube.com/watch?v=lkF0TQJO0bA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=2",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/SafeArea-class.html"
+    },
+    {
+        "id":2,
+        "name":"Expanded",
+        "description":"A widget that expands a child of a Row, Column, or Flex so that the child fills the available space. \nUsing an Expanded widget makes a child of a Row, Column, or Flex expand to fill the available space along the main axis (e.g., horizontally for a Row or vertically for a Column). \nIf multiple children are expanded, the available space is divided among them according to the flex factor.",
+        "youtube link":"https://www.youtube.com/watch?v=_rnZaagadyo&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=3",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Expanded-class.html"
+    },
+    {
+        "id":3,
+        "name":"Wrap",
+        "description":"A widget that displays its children in multiple horizontal or vertical runs. \nA Wrap lays out each child and attempts to place the child adjacent to the previous child in the main axis, given by direction, leaving spacing space in between. \nIf there is not enough space to fit the child, Wrap creates a new run adjacent to the existing children in the cross axis.",
+        "youtube link":"https://www.youtube.com/watch?v=z5iw2SeFx2M&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=4",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Wrap-class.html"
+    },
+    {
+        "id":4,
+        "name":"AnimatedContainer",
+        "description":"Animated version of Container that gradually changes its values over a period of time. \nThe AnimatedContainer will automatically animate between the old and new values of properties when they change using the provided curve and duration. \nProperties that are null are not animated. Its child and descendants are not animated.",
+        "youtube link":"https://www.youtube.com/watch?v=yI-8QHpGIP4&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=5",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html"
+    },
+    {
+        "id":5,
+        "name":"Opacity",
+        "description":"A widget that makes its child partially transparent. \nThis class paints its child into an intermediate buffer and then blends the child back into the scene partially transparent.",
+        "youtube link":"https://www.youtube.com/watch?v=9hltevOHQBw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=6",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Opacity-class.html"
+    }
+]
