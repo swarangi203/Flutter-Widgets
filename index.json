@@ -33,5 +33,13 @@
         "description":"A widget that makes its child partially transparent. \nThis class paints its child into an intermediate buffer and then blends the child back into the scene partially transparent.",
         "youtube link":"https://www.youtube.com/watch?v=9hltevOHQBw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=6",
         "documentation page":"https://api.flutter.dev/flutter/widgets/Opacity-class.html"
+    },
+    {
+        "id":6,
+        "name":"Center",
+        "description":"A widget to center all its child elements",
+        "youtube link":"https://www.youtube.com/watch?v=c726pWTtxqI",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Center-class.html",
     }
+        
 ]
