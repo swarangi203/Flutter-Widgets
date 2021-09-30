@@ -110,5 +110,5 @@
         "description":"A widget that imposes additional constraints on its child.",
         "youtube link":"https://youtu.be/o2KveVr7adg",
         "documentation page":"https://api.flutter.dev/flutter/widgets/ConstrainedBox-class.html"
-   },
+   }
 ]
