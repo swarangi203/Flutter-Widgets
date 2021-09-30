@@ -54,13 +54,20 @@
         "description":"Enables or disables Heroes in the widget subtree.",
         "youtube link":"https://www.youtube.com/watch?v=AaIASk2u1C0",
         "documentation page":"https://api.flutter.dev/flutter/widgets/HeroMode-class.html",
-    }
+    },
     {
         "id":9,
         "name":"SingleChildScrollView",
         "description":"Allows user to scroll the flutter page.",
         "youtube link":"https://www.youtube.com/watch?v=UL-Hvrz-7AQ",
         "documentation page":"https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html",
+    },
+    {
+        "id":10,
+        "name":"AnimatedPhysicalModel",
+        "description":"The color is animated if the animateColor property is set; otherwise, the color changes immediately at the start of the animation for the other two properties. This allows the color to be animated independently (e.g. because it is being driven by an AnimatedTheme).",
+        "youtube link":"https://www.youtube.com/watch?v=UL-Hvrz-7AQ",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/AnimatedPhysicalModel-class.html",
     }
         
 ]
