@@ -48,5 +48,12 @@
         "youtube link":"https://www.youtube.com/watch?v=aAmP-WcI6dg",
         "documentation page":"https://api.flutter.dev/flutter/material/FlutterLogo-class.html",
     }
+    {
+        "id":9,
+        "name":"SingleChildScrollView",
+        "description":"Allows user to scroll the flutter page.",
+        "youtube link":"https://www.youtube.com/watch?v=UL-Hvrz-7AQ",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html",
+    }
         
 ]
