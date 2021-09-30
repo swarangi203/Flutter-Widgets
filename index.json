@@ -40,6 +40,13 @@
         "description":"A widget to center all its child elements",
         "youtube link":"https://www.youtube.com/watch?v=c726pWTtxqI",
         "documentation page":"https://api.flutter.dev/flutter/widgets/Center-class.html",
+    },
+    {
+        "id":7,
+        "name":"FlutterLogo",
+        "description":"The Flutter logo, in widget form.",
+        "youtube link":"https://www.youtube.com/watch?v=aAmP-WcI6dg",
+        "documentation page":"https://api.flutter.dev/flutter/material/FlutterLogo-class.html",
     }
         
 ]
