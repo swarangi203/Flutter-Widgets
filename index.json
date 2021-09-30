@@ -92,9 +92,16 @@
     },
    {
         "id":14,
-        "name":"",
+        "name":"ClipOval",
         "description":"By default, inscribes an axis-aligned oval into its layout dimensions and prevents its child from painting outside that oval, but the size and location of the clip oval can be customized using a custom clipper.",
         "youtube link":"https://youtu.be/vzWWDO6whIM",
         "documentation page":"https://api.flutter.dev/flutter/widgets/ClipOval-class.html"
+   },
+  {
+        "id":15,
+        "name":"Table",
+        "description":"A table allows the user to arrange the data in rows and columns. It is used to store and display our data in a structured format, which helps us to compare the pairs of related values easily.",
+        "youtube link":"https://youtu.be/_lbE0wsVZSw",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Table-class.html"
    }
 ]
