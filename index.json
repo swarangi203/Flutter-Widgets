@@ -47,6 +47,13 @@
         "description":"The Flutter logo, in widget form.",
         "youtube link":"https://www.youtube.com/watch?v=aAmP-WcI6dg",
         "documentation page":"https://api.flutter.dev/flutter/material/FlutterLogo-class.html",
+    },
+    {
+        "id":8,
+        "name":"HeroMode",
+        "description":"Enables or disables Heroes in the widget subtree.",
+        "youtube link":"https://www.youtube.com/watch?v=AaIASk2u1C0",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/HeroMode-class.html",
     }
     {
         "id":9,
