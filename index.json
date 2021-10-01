@@ -124,6 +124,13 @@
         "description":"An about box. This is a dialog box with the application's icon, name, version number, and copyright, plus a button to show licenses for software used by the application.",
         "youtube link":"https://www.youtube.com/watch?v=YFCSODyFxbE",
         "documentation page":"https://api.flutter.dev/flutter/material/AboutDialog-class.html"
+   },
+     {
+        "id":19,
+        "name":"Text",
+        "description":"The Text widget displays a string of text with single style.",
+        "youtube link":"https://www.youtube.com/watch?v=WYbXv9WtVwE",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Text-class.html"
    }
     
 ]
