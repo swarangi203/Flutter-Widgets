@@ -110,5 +110,12 @@
         "description":"A widget that imposes additional constraints on its child.",
         "youtube link":"https://youtu.be/o2KveVr7adg",
         "documentation page":"https://api.flutter.dev/flutter/widgets/ConstrainedBox-class.html"
+   },
+     {
+        "id":17,
+        "name":"SnackBar ",
+        "description":"SnackBar lets you pop up a message for a few seconds at the bottom of your app.",
+        "youtube link":"https://youtu.be/zpO6n_oZWw0?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&t=10",
+        "documentation page":"https://api.flutter.dev/flutter/material/SnackBar-class.html"
    }
 ]
