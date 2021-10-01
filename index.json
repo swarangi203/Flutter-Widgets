@@ -152,5 +152,12 @@
         "description":"Fetches an image from an AssetBundle, having determined the exact image to use based on the context.",
         "youtube link":"https://www.youtube.com/watch?v=Hxh6nNHSUjo",
         "documentation page":"https://api.flutter.dev/flutter/painting/AssetImage-class.html"
+   },
+    {
+        "id":22,
+        "name":"RefreshIndicator",
+        "description":"A widget that supports the Material "swipe to refresh" idiom.",
+        "youtube link":"https://www.youtube.com/watch?v=ORApMlzwMdM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=108",
+        "documentation page":"https://api.flutter.dev/flutter/material/RefreshIndicator-class.html"
    }
 ]
