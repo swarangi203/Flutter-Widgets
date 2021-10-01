@@ -125,11 +125,25 @@
         "youtube link":"https://www.youtube.com/watch?v=YFCSODyFxbE",
         "documentation page":"https://api.flutter.dev/flutter/material/AboutDialog-class.html"
    },
-       {
+     {
         "id":19,
         "name":"BackdropFilter",
         "description":"A widget that applies a filter to the existing painted content and then paints child.",
         "youtube link":"https://www.youtube.com/watch?v=dYRs7Q1vfYI",
         "documentation page":"https://api.flutter.dev/flutter/widgets/BackdropFilter-class.html"
    },
+     {
+        "id":20,
+        "name":"Text",
+        "description":"The Text widget displays a string of text with single style.",
+        "youtube link":"https://www.youtube.com/watch?v=WYbXv9WtVwE",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Text-class.html"
+    },
+      {
+        "id":21,  
+        "name":"Layout",
+        "description":"This bundle of widgets helps in placing the other widgets on the screen as needed",
+        "youtube link":"https://www.youtube.com/watch?v=uisLoOmtISk",
+        "documentation page":"https://api.flutter.dev/flutter/material/AboutDialog-class.html"
+   }
 ]
