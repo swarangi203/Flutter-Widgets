@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "id":1,
         "name":"SafeArea",
@@ -117,5 +117,13 @@
         "description":"SnackBar lets you pop up a message for a few seconds at the bottom of your app.",
         "youtube link":"https://youtu.be/zpO6n_oZWw0?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&t=10",
         "documentation page":"https://api.flutter.dev/flutter/material/SnackBar-class.html"
+   },
+    {
+        "id":18,
+        "name":"AboutDialog",
+        "description":"An about box. This is a dialog box with the application's icon, name, version number, and copyright, plus a button to show licenses for software used by the application.",
+        "youtube link":"https://www.youtube.com/watch?v=YFCSODyFxbE",
+        "documentation page":"https://api.flutter.dev/flutter/material/AboutDialog-class.html"
    }
+    
 ]
