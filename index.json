@@ -124,6 +124,12 @@
         "description":"An about box. This is a dialog box with the application's icon, name, version number, and copyright, plus a button to show licenses for software used by the application.",
         "youtube link":"https://www.youtube.com/watch?v=YFCSODyFxbE",
         "documentation page":"https://api.flutter.dev/flutter/material/AboutDialog-class.html"
-   }
-    
+   },
+       {
+        "id":19,
+        "name":"BackdropFilter",
+        "description":"A widget that applies a filter to the existing painted content and then paints child.",
+        "youtube link":"https://www.youtube.com/watch?v=dYRs7Q1vfYI",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/BackdropFilter-class.html"
+   },
 ]
