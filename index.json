@@ -174,4 +174,14 @@
         "youtube link":"https://www.youtube.com/watch?v=dHBF4IJZvHk&ab_channel=JohannesMilke",
         "documentation page":"https://api.flutter.dev/flutter/material/AppBar-class.html"
     }
+    
+    {   
+        "id":24
+        "name":"Paint class",
+        "description":" style to use when drawing on a Canvas",
+        "youtube link":"https://youtu.be/vvI_NUXK00s",
+        "documentation page":"https://api.flutter.dev/flutter/dart-ui/Paint-class.html"
+    }   
+
+
 ]
