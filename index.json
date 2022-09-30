@@ -229,10 +229,18 @@
         "documentation page":"https://api.flutter.dev/flutter/widgets/SafeArea-class.html"
     },
     {
-        "id":30",
+        "id":31,
+        "name":"RichText",
+        "description":"The RichText widget displays text that uses multiple different styles.",
+        "youtube link":"https://youtu.be/rykDVh-QFfw",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/RichText-class.html"
+    },
+  {
+        "id":32",
         "name":"async",
         "description":"async patterns to your flutter application.",
         "youtube link":"https://youtu.be/SmTCmDMi4BY",
         "documentation":"https://docs.flutter.dev/development/ui/widgets/async",
+
     }
 ]
