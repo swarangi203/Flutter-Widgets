@@ -243,4 +243,11 @@
         "documentation":"https://docs.flutter.dev/development/ui/widgets/async",
 
     }
+    {
+        "id":33,
+        "name":"DemonSlayer",
+        "description":"Best anime to watch. \nThe AnimatedContainer will automatically animate between the old and new values of properties when they change using the provided curve and duration. \nProperties that are null are not animated. Its child and descendants are not animated.",
+        "youtube link":"https://www.youtube.com/watch?v=yI-8QHpGIP4&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=5",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html"
+    },
 ]
