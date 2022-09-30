@@ -196,6 +196,16 @@
         "youtube link":"https://youtu.be/NG6pvXpnIso",
         "documentation page":"https://api.flutter.dev/flutter/widgets/Flow-class.html"
     },
+    {
+        "id":27,
+        "name":"margin",
+        "description":"Margin has multiple meanings. In business, margin is the profit generated after accounting for costs, which is expressed as a percentage.",
+        "youtube link":"https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXZnZzFaWnZlSHlGX21veTZQX2ZrS2Q5OFByUXxBQ3Jtc0tuS05QcXlBQXF4X2N5ZksxU2dHMFJ1OHRnT3RnZm1yU1IyeVo1OGtJN1FIUXRacmdaN1U2cVV0M1ZQbTBMZ25vcmk3emVxZWw1X2NCS0NwTTVkZkdTZzJCQWFlTUF0eUlMWWs1UlYwRkNGbDNwOW1oTQ&q=https%3A%2F%2Fwww.patreon.com%2Finvestorsgrow&v=lzMg04UKuj4&html_redirect=1"
+       ",
+        "documentation page":"https://support.microsoft.com/en-us/office/change-the-margins-in-your-word-document-c95c1ea1-70b1-4dde-a1da-f5aa2042c829#:~:text=Create%20a%20custom%20margin,Select%20OK%20when%20done."
+    },
+
+
 
     {
         "id":28",
