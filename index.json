@@ -197,5 +197,13 @@
         "documentation page":"https://api.flutter.dev/flutter/widgets/Flow-class.html"
     },
 
+    {
+        "id":28",
+        "name":"Mediaquery",
+        "description":"Establishes a subtree in which media queries resolve to the given data.",
+        "youtube link":"https://www.youtube.com/watch?v=pxFPA8wdwKE",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/MediaQuery-class.html"
+    },
+
 
 ]
