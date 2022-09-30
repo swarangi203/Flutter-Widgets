@@ -243,4 +243,12 @@
         "documentation":"https://docs.flutter.dev/development/ui/widgets/async",
 
     }
+    
+     {
+        "id":35,
+        "name":"AboutDialog",
+        "description":"An about box. This is a dialog box with the application's icon, name, version number, and copyright, plus a button to show licenses for software used by the application.",
+        "youtube link":"https://www.youtube.com/watch?v=YFCSODyFxbE",
+        "documentation page":"https://api.flutter.dev/flutter/material/AboutDialog-class.html"
+   },
 ]
