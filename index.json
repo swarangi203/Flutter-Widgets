@@ -228,5 +228,11 @@
         "youtube link":"https://www.youtube.com/watch?v=OEmFC9MU7pM&ab_channel=SonarSystems",
         "documentation page":"https://www.google.com/search?q=iconbutton+documentation&rlz=1C1CHBF_enIN979IN979&oq=iconbutton+documentation&aqs=chrome..69i57j0i546l2.17885j0j15&sourceid=chrome&ie=UTF-8"
     },
-    
+    {
+        "id":35,
+        "name":"RichText",
+        "description":"The RichText widget displays text that uses multiple different styles.",
+        "youtube link":"https://youtu.be/rykDVh-QFfw",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/RichText-class.html"
+    }
 ]
