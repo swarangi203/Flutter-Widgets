@@ -241,7 +241,13 @@
         "description":"async patterns to your flutter application.",
         "youtube link":"https://youtu.be/SmTCmDMi4BY",
         "documentation":"https://docs.flutter.dev/development/ui/widgets/async",
-
+    },
+    {
+        "id":36,
+        "name":"FadeInImage",
+        "description":"When displaying images using the default Image widget, you might notice they simply pop onto the screen as they’re loaded. This might feel visually jarring to your users. Instead, wouldn’t it be nice to display a placeholder at first, and images would fade in as they’re loaded? Use the FadeInImage widget for exactly this purpose.",
+        "youtube link":"https://youtu.be/pK738Pg9cxc",
+        "documentation page":"https://docs.flutter.dev/cookbook/images/fading-in-images",
     }
     {
         "id":33,
