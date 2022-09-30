@@ -270,5 +270,12 @@
         "youtube link":"https://www.youtube.com/watch?v=yI-8QHpGIP4&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=5",
         "documentation page":"https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html"
     },
+    {
+        "id":36,
+        "name":"FutureBuilder",
+        "description":"FutureBuilder is a Widget that will help you to execute some asynchronous function and based on that function's result your UI will update.",
+        "youtube link":"https://youtu.be/ek8ZPdWj4Qo",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html"
+    },
 
 ]
