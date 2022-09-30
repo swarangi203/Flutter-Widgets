@@ -1,4 +1,11 @@
 [
+     {
+        "id":10,
+        "name":"Opacity",
+        "description":"A widget that makes its child partially transparent. \nThis class paints its child into an intermediate buffer and then blends the child back into the scene partially transparent.",
+        "youtube link":"https://www.youtube.com/watch?v=9hltevOHQBw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=6",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Opacity-class.html"
+    },
     {
         "id":11,
         "name":"SafeArea",
@@ -222,14 +229,14 @@
         "documentation page":"https://api.flutter.dev/flutter/material/BottomSheet-class.html"
     },
      {
-        "id"30,
+        "id":30,
         "name":"pratiksha",
         "description":"A widget that insets its child by sufficient padding to avoid intrusions by the operating system.\nFor example, this will indent the child by enough to avoid the status bar at the top of the screen.\nIt will also indent the child by the amount necessary to avoid The Notch on the iPhone X, or other similar creative physical features of the display.",
         "youtube link":"https://www.youtube.com/watch?v=lkF0TQJO0bA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=2",
         "documentation page":"https://api.flutter.dev/flutter/widgets/SafeArea-class.html"
     },
     {
-        "id":31,
+        "id":"31",
         "name":"RichText",
         "description":"The RichText widget displays text that uses multiple different styles.",
         "youtube link":"https://youtu.be/rykDVh-QFfw",
