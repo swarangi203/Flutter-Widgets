@@ -167,4 +167,11 @@
         "youtube link":"https://youtu.be/rykDVh-QFfw",
         "documentation page":"https://api.flutter.dev/flutter/widgets/RichText-class.html"
     }
+   {
+        "id":23,
+        "name":"AppBar",
+        "description":"Topmost component of the app",
+        "youtube link":"https://www.youtube.com/watch?v=dHBF4IJZvHk&ab_channel=JohannesMilke",
+        "documentation page":"https://api.flutter.dev/flutter/material/AppBar-class.html"
+    }
 ]
