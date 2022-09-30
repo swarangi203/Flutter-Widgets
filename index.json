@@ -241,14 +241,27 @@
         "description":"async patterns to your flutter application.",
         "youtube link":"https://youtu.be/SmTCmDMi4BY",
         "documentation":"https://docs.flutter.dev/development/ui/widgets/async",
-
-    }
-    
+    },
+    {
+        "id":33,
+        "name":"FadeInImage",
+        "description":"When displaying images using the default Image widget, you might notice they simply pop onto the screen as they’re loaded. This might feel visually jarring to your users. Instead, wouldn’t it be nice to display a placeholder at first, and images would fade in as they’re loaded? Use the FadeInImage widget for exactly this purpose.",
+        "youtube link":"https://youtu.be/pK738Pg9cxc",
+        "documentation page":"https://docs.flutter.dev/cookbook/images/fading-in-images",
+    },
      {
-        "id":35,
+        "id":34,
         "name":"AboutDialog",
         "description":"An about box. This is a dialog box with the application's icon, name, version number, and copyright, plus a button to show licenses for software used by the application.",
         "youtube link":"https://www.youtube.com/watch?v=YFCSODyFxbE",
         "documentation page":"https://api.flutter.dev/flutter/material/AboutDialog-class.html"
    },
+    {
+        "id":35,
+        "name":"DemonSlayer",
+        "description":"Best anime to watch. \nThe AnimatedContainer will automatically animate between the old and new values of properties when they change using the provided curve and duration. \nProperties that are null are not animated. Its child and descendants are not animated.",
+        "youtube link":"https://www.youtube.com/watch?v=yI-8QHpGIP4&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=5",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html"
+    },
+
 ]
