@@ -256,6 +256,21 @@
        "documentation page":"https://docs.flutter.dev/cookbook/images/fading-in-images"
    },
     {
+
+        "id":36,
+        "name":"FutureBuilder",
+        "description":"FutureBuilder is a Widget that will help you to execute some asynchronous function and based on that function's result your UI will update.",
+        "youtube link":"https://youtu.be/ek8ZPdWj4Qo",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html"
+    },
+     {
+    "id":57,
+    "name":"MediaQuery class",
+    "description":"Establishes a subtree in which media queries resolve to the given data.",
+    "youtube link":"https://youtu.be/A3WrA4zAaPw",
+    "documentation page":"https://api.flutter.dev/flutter/widgets/MediaQuery-class.html"
+   },
+{
        "id":34,
        "name":"AboutDialog",
        "description":"An about box. This is a dialog box with the application's icon, name, version number, and copyright, plus a button to show licenses for software used by the application.",
@@ -284,4 +299,5 @@
        "documentation page":"https://api.flutter.dev/flutter/widgets/Scrollable-class.html"
    }
     
+
 ]
