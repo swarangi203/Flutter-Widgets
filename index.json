@@ -277,5 +277,12 @@
         "youtube link":"https://youtu.be/ek8ZPdWj4Qo",
         "documentation page":"https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html"
     },
+     {
+    "id":57,
+    "name":"MediaQuery class",
+    "description":"Establishes a subtree in which media queries resolve to the given data.",
+    "youtube link":"https://youtu.be/A3WrA4zAaPw",
+    "documentation page":"https://api.flutter.dev/flutter/widgets/MediaQuery-class.html"
+   }
 
 ]
