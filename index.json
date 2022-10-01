@@ -60,14 +60,18 @@
        "name":"HeroMode",
        "description":"Enables or disables Heroes in the widget subtree.",
        "youtube link":"https://www.youtube.com/watch?v=AaIASk2u1C0",
-       "documentation page":"https://api.flutter.dev/flutter/widgets/HeroMode-class.html"
+
+       "documentation page":"https://api.flutter.dev/flutter/widgets/HeroMode-class.html",
+
    },
    {
        "id":19,
        "name":"SingleChildScrollView",
        "description":"Allows user to scroll the flutter page.",
        "youtube link":"https://www.youtube.com/watch?v=UL-Hvrz-7AQ",
+
        "documentation page":"https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html"
+
    },
    {
        "id":20,
@@ -163,7 +167,9 @@
    {
        "id":33,
        "name":"RefreshIndicator",
+
        "description":"A widget that supports the Material 'swipe to refresh' idiom.",
+
        "youtube link":"https://www.youtube.com/watch?v=ORApMlzwMdM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=108",
        "documentation page":"https://api.flutter.dev/flutter/material/RefreshIndicator-class.html"
   },
@@ -235,7 +241,9 @@
        "documentation page":"https://api.flutter.dev/flutter/widgets/SafeArea-class.html"
    },
    {
+
        "id":"31",
+
        "name":"RichText",
        "description":"The RichText widget displays text that uses multiple different styles.",
        "youtube link":"https://youtu.be/rykDVh-QFfw",
@@ -246,15 +254,19 @@
        "name":"async",
        "description":"async patterns to your flutter application.",
        "youtube link":"https://youtu.be/SmTCmDMi4BY",
+
        "documentation":"https://docs.flutter.dev/development/ui/widgets/async"
+
    },
    {
        "id":33,
        "name":"FadeInImage",
        "description":"When displaying images using the default Image widget, you might notice they simply pop onto the screen as they’re loaded. This might feel visually jarring to your users. Instead, wouldn’t it be nice to display a placeholder at first, and images would fade in as they’re loaded? Use the FadeInImage widget for exactly this purpose.",
        "youtube link":"https://youtu.be/pK738Pg9cxc",
-       "documentation page":"https://docs.flutter.dev/cookbook/images/fading-in-images"
+
+       "documentation page":"https://docs.flutter.dev/cookbook/images/fading-in-images",
    },
+    
     {
 
         "id":36,
@@ -271,6 +283,7 @@
     "documentation page":"https://api.flutter.dev/flutter/widgets/MediaQuery-class.html"
    },
 {
+
        "id":34,
        "name":"AboutDialog",
        "description":"An about box. This is a dialog box with the application's icon, name, version number, and copyright, plus a button to show licenses for software used by the application.",
@@ -292,6 +305,14 @@
        "documentation page":"https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html"
    },
    {
+
+       "id":52,
+       "name":"MediaQuery class",
+       "description":"MediaQuery class establishes a subtree in which media queries resolve to the given data",
+       "youtube link":"https://youtu.be/A3WrA4zAaPw",
+       "documentation page":"https://api.flutter.dev/flutter/widgets/MediaQuery-class.html"
+   },
+{
     "id":55,
        "name":"Scrollable",
        "description":"Scrollable implements the interaction model for a scrollable widget, including gesture recognition, but does not have an opinion about how the viewport, which actually displays the children, is constructed.",
@@ -299,5 +320,6 @@
        "documentation page":"https://api.flutter.dev/flutter/widgets/Scrollable-class.html"
    }
     
+
 
 ]
